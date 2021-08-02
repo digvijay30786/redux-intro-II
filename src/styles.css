@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App > .inputValue {
+  margin-top: 20px;
+}
+
+.App > .inputValue > label {
+  font-size: 20px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.App > .inputValue > input {
+  height: 30px;
+  display: inline-block;
+  padding: 10px;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+  outline: none;
+}
+
+.App > .inputValue > button {
+  height: 30px;
+}

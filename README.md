@@ -1,2 +1,2 @@
-# redux-intro-II
+# redux-intro
 Created with CodeSandbox
